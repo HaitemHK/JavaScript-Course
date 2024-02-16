@@ -1,0 +1,23 @@
+button{
+    font-size: 1rem;
+    border: solid salmon 1px;
+    background: transparent;
+    margin-top: 2%;
+}
+.container{
+    border: solid black 1px;
+    height: 200px;
+    width: 200px;
+    margin-top: 3%;
+    margin-left: 3%;
+    background-color: aquamarine;
+}
+.fl{
+    border-radius: 10%;
+    transform: skewX(-7deg);
+}
+.inp{
+    background-color: chartreuse;
+    border-color: rebeccapurple;
+    border-radius: 10%;
+}
