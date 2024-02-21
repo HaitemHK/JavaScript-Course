@@ -1,0 +1,12 @@
+div{
+    border: solid black 1px;
+    padding: 10px;
+    width: 50%;
+    background-color: rgba(83, 6, 155, 0.37);
+}
+button{
+    background-color: rgb(6, 201, 16);
+    border: solid 1px;
+    border-radius: 7%;
+    padding: 7px;
+}
