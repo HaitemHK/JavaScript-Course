@@ -1,0 +1,14 @@
+
+input{
+    outline: none;
+    border-radius: 5px;
+}
+.success{
+    border: solid 3px rgb(132, 132, 254);
+}
+.error{
+    border: solid 3px rgb(207, 18, 18);
+}
+.is_hidden{
+    display: none;
+}
